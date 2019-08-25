@@ -9,7 +9,7 @@ public class test2 {
 		System.out.println("my new chnage");
 		System.out.println("my change1");
 		System.out.println("new line after revert");
-
+        System.out.println("test2 updated by master");
 
 	}
 
