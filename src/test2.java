@@ -11,6 +11,7 @@ public class test2 {
 		System.out.println("new line after revert");
         System.out.println("test2 updated by master");
         System.out.println("new line!!1");
+        System.out.println("checking");
 
 
 	}
